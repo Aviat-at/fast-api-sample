@@ -73,5 +73,3 @@ Notes
 - See `books/urls.py` for the app routes and available API endpoints.
 - The repository includes a local SQLite database at `myproject/db.sqlite3` for convenience; remove or replace it for production use.
 - Adjust the Python version in your environment as needed (project works with common Python 3.x versions).
-
-If you want, I can also add a `requirements.txt` or expand the README with API examples.
